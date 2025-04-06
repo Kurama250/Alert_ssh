@@ -50,6 +50,7 @@ DISCORD_WEBHOOK_URL="https://discord.com/api/webhooks/1265070339566600233/YOUR _
 bash /root/alert.sh # If you put it elsewhere then put the access path
 ```
 
+<h3 align="center"><strong>Support on Discord :</strong> <a href="https://discord.gg/6aebQGdDxB">Discord</a></3>
 <h3 align="center">If you like this repository don't hesitate to give it a star ⭐ !</h3>
 
 Licence : [Creative commons](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) - CC BY-NC-ND 4.0 by [Kurama250](https://github.com/Kurama250)
